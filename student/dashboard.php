@@ -13,9 +13,9 @@
     <nav>
         <ul>
             <li><a href="../index.php">Home</a></li>
-            <li><a href="auth/login.php">Login</a></li>
-            <li><a href="auth/register.php">Register</a></li>
-            <li><a href="auth/verify.php">Forget Password</a></li>
+            <li><a href="student/grades.php">Grades</a></li>
+            <li><a href="student/reminders.php">Reminders</a></li>
+            <li><a href="student/announcement.php">Annoucements</a></li>
         </ul>
     </nav>
 </body>
