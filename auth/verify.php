@@ -10,7 +10,7 @@
 
 <body>
     <h1>FORGETPASSWORD PAGE</h1>
-    <a href="index.php">Home</a>
+    <a href="../index.php">Home</a>
     <a href="reset.php">Check Email</a>
 </body>
 

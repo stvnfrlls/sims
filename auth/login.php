@@ -10,7 +10,7 @@
 
 <body>
     <h1>LOGIN PAGE</h1>
-    <a href="index.php">Home</a>
+    <a href="../index.php">Home</a>
 </body>
 
 </html>
